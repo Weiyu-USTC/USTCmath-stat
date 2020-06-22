@@ -3,7 +3,7 @@ Notes and homework answers for Math, Prob and Stat courses at USTC
 
 一些私人课程笔记、作业答案的汇总。
 
-PB16001713的数学、统计课程修读顺序：
+我的数学、统计课程修读顺序：
 
 大一秋季：数学分析B1（王建伟）；
 
